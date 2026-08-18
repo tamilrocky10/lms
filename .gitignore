@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+lms.db
+.streamlit/secrets.toml
